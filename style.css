@@ -1,0 +1,46 @@
+.body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:  #eaded2;
+
+}
+
+#home {
+  text-align: center;
+  size: 200%;
+}
+
+
+.img_car {
+    border-radius: 50%;
+}
+
+.testimonial-text {
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: 10px 100px 10px 100px;
+  }
+  
+  .testimonial-image {
+    margin: 40%;
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+  }
+
+
+.main_title {
+    text-align: center;
+    font-family: 'Eczar', serif;
+    font-weight: 700;
+    font-size: 64px;
+    color: #5cb85c;
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+.main_img {
+   width: 100%;  
+}
+
+ 
+
